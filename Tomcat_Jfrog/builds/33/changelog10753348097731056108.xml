@@ -1,0 +1,18 @@
+commit c41befaf4cfcdf0e6727158dd809077633bdc5e9
+tree bd5a1ba996b18813221c4f89ee12661856bc01dc
+parent 428f01df8b0380c86ec3e5fa190d7e338c248f0c
+author SanjanaKrishna <32275576+SanjanaKrishna@users.noreply.github.com> 2025-01-15 22:21:10 +0530
+committer GitHub <noreply@github.com> 2025-01-15 22:21:10 +0530
+
+    Create Jenkinsfile
+
+:000000 100644 0000000000000000000000000000000000000000 1625a028d8c3efca418b79ac96728bac5109a40d A	Jenkinsfile
+commit 428f01df8b0380c86ec3e5fa190d7e338c248f0c
+tree 834704984f31a79bf1f70748a8564c21cc780f00
+parent 54b1347a1e1994740b254579f4007f127b6b357e
+author SanjanaKrishna <32275576+SanjanaKrishna@users.noreply.github.com> 2025-01-15 22:20:25 +0530
+committer GitHub <noreply@github.com> 2025-01-15 22:20:25 +0530
+
+    Update and rename Jenkinsfile to Jenkinsfile_Jfrog_Sanjana_v
+
+:100644 100644 9178f50db3e5bd711107c6cc11a92455c84fb910 c31a7db9f27d86bff4191b3a2ac953b2b43e5dde R054	Jenkinsfile	Jenkinsfile_Jfrog_Sanjana_v
